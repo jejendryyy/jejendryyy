@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student in SMK AK Nusa Bangsa<br>16 y.o<br>Basketball<br>Want to become a Web Developer
+Student
 
 
 ## 🌐 Socials:
